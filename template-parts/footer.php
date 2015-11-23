@@ -9,7 +9,7 @@
             $( "#accordion" ).accordion();
           });
         </script>
-<a style="font-size:30px" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DO NOT CLICK</a>
+<a style="font-size:30px; color:white;" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DO NOT CLICK</a>
 <!--
                    ,-'     `._
                  ,'           `.        ,-.
